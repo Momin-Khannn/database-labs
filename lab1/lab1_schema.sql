@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict U2LUQNt1rcr96LRWXzjA0ubasXG73aLaBHxxQghostE0lWKh9fqevAeARTtjHmx
+\restrict Wsch1wNvkf3WtgFJ2agz9J4s7xz8mt4Wkz0ACpnJc9gKRWh8xIPSEW1OFFPcsWw
 
 -- Dumped from database version 18.1 (Debian 18.1-2)
 -- Dumped by pg_dump version 18.1 (Debian 18.1-2)
@@ -135,5 +135,5 @@ ALTER TABLE ONLY public.students
 -- PostgreSQL database dump complete
 --
 
-\unrestrict U2LUQNt1rcr96LRWXzjA0ubasXG73aLaBHxxQghostE0lWKh9fqevAeARTtjHmx
+\unrestrict Wsch1wNvkf3WtgFJ2agz9J4s7xz8mt4Wkz0ACpnJc9gKRWh8xIPSEW1OFFPcsWw
 
